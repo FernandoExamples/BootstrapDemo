@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,400;0,700;1,400&display=swap');
+
+body {
+  font-family: 'Titillium Web', sans-serif;
+}
+
+img {
+  max-width: 100%;
+}
+
+.testimonial {
+  background: #f1f1f1;
+  padding: 5rem 0 3rem 0;
+  text-align: center;
+  margin-top: 4rem;
+}
+
+.header {
+  margin-top: 6rem;
+}
+
+.info-two {
+  background-color: #f1f1f1;
+}
+
+textarea.form-control{
+  height: 10rem;
+}
+
+.page-footer {
+  background-image: url('../img/smartphones.png');
+}
+
+.card{
+  border-radius: 10px;
+}
